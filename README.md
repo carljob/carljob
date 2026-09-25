@@ -12,8 +12,8 @@
       </p>
       <p>
         <a href="https://github.com/carljob"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="mailto:tu-email@dominio.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-        <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:uribe.vargas.carlos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/carlos-andres-uribe-vargas-96745b266"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       </p>
       <br />
     </td>
@@ -72,6 +72,19 @@
 ## 🚀 Project Showcase
 
 <table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🎰 EL PARCHE — Casino Web Platform</h3>
+      <p><b>Proyecto Principal (Solo Dev):</b> Plataforma web interactiva de casino desarrollada completamente desde cero. Cuenta con arquitectura Full Stack modular, autenticación de usuarios mediante JWT, lógica de juegos en tiempo real e interfaz responsiva totalmente funcional.</p>
+      <p><b>Technologies:</b> <code>React</code> <code>JavaScript</code> <code>Node.js</code> <code>WebSockets</code> <code>TailwindCSS</code> <code>JWT</code></p>
+      <p><a href="https://github.com/El-Parche-Casino"><b>🔗 View Organization & Code</b></a></p>
+    </td>
+    <td width="45%" valign="middle" align="center">
+      <a href="https://github.com/El-Parche-Casino">
+        <img src="https://opengraph.githubassets.com/1/El-Parche-Casino" width="100%" alt="EL PARCHE Casino preview" />
+      </a>
+    </td>
+  </tr>
   <tr>
     <td width="55%" valign="top">
       <h3>Lab 06 — Observabilidad de Microservicios</h3>
