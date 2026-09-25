@@ -1,28 +1,27 @@
 <div align="center">
 
-<!-- HERO SECTION / CARD UI -->
-<table>
-  <tr>
-    <td align="center" width="960" bgcolor="#0d1117">
-      <br />
-      <h1>👋 Carlos Andrés Uribe Vargas</h1>
-      <p><b>Systems Engineering Student • Software Developer • Full Stack Developer • Data & AI Enthusiast</b></p>
-      <p>
-        <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=FF6A00&center=true&vCenter=true&width=800&height=40&lines=Software+Developer;Full+Stack+Developer;Data+%26+AI+Enthusiast;Building+digital+solutions" alt="Typing Animation" />
-      </p>
-      <p>
-        <a href="https://github.com/carljob"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="mailto:uribe.vargas.carlos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-        <a href="https://www.linkedin.com/in/carlos-andres-uribe-vargas-96745b266"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      </p>
-      <br />
-    </td>
-  </tr>
-</table>
+<!-- HERO CARD CON ANIMACIÓN -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,50:ff6a00,100:ff2da6&text=Carlos%20Andr%C3%A9s%20Uribe%20Vargas&fontColor=ffffff&fontSize=36&fontAlignY=38&desc=Systems%20Engineering%20Student%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Data%20%26%20AI&descSize=14&descAlignY=56&animation=fadeIn" alt="Header Animado" />
+</p>
+
+<!-- TYPING SVG ANIMADO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=FF6A00&center=true&vCenter=true&width=800&height=45&lines=Software+Developer;Full+Stack+Developer;Backend+%26+Cloud+Architecture;Data+%26+AI+Enthusiast;Building+Scalable+Digital+Solutions" alt="Typing Animation" />
+</p>
+
+<!-- BOTONES DE CONTACTO -->
+<p align="center">
+  <a href="https://github.com/carljob"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:uribe.vargas.carlos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/carlos-andres-uribe-vargas-96745b266"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ff6a00,100:ff2da6" alt="divider" width="100%" />
+</p>
 
 ## 🛠️ Technical Stack
 
@@ -67,7 +66,9 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ff2da6,100:ff6a00" alt="divider" width="100%" />
+</p>
 
 ## 🚀 Project Showcase
 
@@ -75,7 +76,7 @@
   <tr>
     <td width="55%" valign="top">
       <h3>🎰 EL PARCHE — Casino Web Platform</h3>
-      <p><b>Proyecto Principal (Solo Dev):</b> Plataforma web interactiva de casino desarrollada completamente desde cero. Cuenta con arquitectura Full Stack modular, autenticación de usuarios mediante JWT, lógica de juegos en tiempo real e interfaz responsiva totalmente funcional.</p>
+      <p><b>⭐ Proyecto Principal (Solo Dev):</b> Plataforma web interactiva de casino desarrollada completamente desde cero. Cuenta con arquitectura Full Stack modular, autenticación mediante JWT, lógica de juegos en tiempo real e interfaz responsiva totalmente funcional.</p>
       <p><b>Technologies:</b> <code>React</code> <code>JavaScript</code> <code>Node.js</code> <code>WebSockets</code> <code>TailwindCSS</code> <code>JWT</code></p>
       <p><a href="https://github.com/El-Parche-Casino"><b>🔗 View Organization & Code</b></a></p>
     </td>
@@ -126,22 +127,31 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ff6a00,100:ff2da6" alt="divider" width="100%" />
+</p>
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=carljob&show_icons=true&theme=dark&bg_color=0d1117&title_color=ff6a00&icon_color=ff2da6&text_color=ffffff&border_color=30363d" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carljob&layout=compact&theme=dark&bg_color=0d1117&title_color=ff6a00&text_color=ffffff&border_color=30363d" alt="Top languages" />
+<!-- STATS CARDS CON TEMA ESTABLE TOKYONIGHT QUE NO FALLA -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=carljob&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carljob&layout=compact&theme=tokyonight&hide_border=false" alt="Top languages" />
 
 <br /><br />
 
-<img height="175" src="https://streak-stats.demolab.com?user=carljob&theme=dark&background=0d1117&ring=ff6a00&fire=ff2da6&currStreakLabel=ffffff&sideLabels=ffffff&dates=bfbfbf&border=30363d" alt="Contribution streak" />
+<!-- STREAK STATS CON ALTA DISPONIBILIDAD -->
+<img height="170" src="https://streak-stats.demolab.com?user=carljob&theme=tokyonight&hide_border=false" alt="Contribution streak" />
 
 </div>
 
 <br />
+
+<!-- FOOTER ANIMADO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0d1117,50:ff2da6,100:ff6a00" alt="Animated footer" />
+</p>
 
 <div align="center">
   <sub>Carlos Uribe • Portfolio GitHub Profile</sub>
